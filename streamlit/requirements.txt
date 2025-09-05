@@ -1,0 +1,8 @@
+streamlit
+streamlit-folium
+pandas
+python-dotenv
+google-generativeai
+folium
+requests
+xlsxwriter
