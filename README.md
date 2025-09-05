@@ -1,2 +1,2 @@
-# EV_monit
-산학 프로젝트
+# Monit
+YBIGTA 산학 산출물
